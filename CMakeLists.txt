@@ -9,5 +9,5 @@ link_directories(/usr/local/lib)
 link_libraries(sfml-window sfml-system sfml-graphics)
 
 
-set(SOURCE_FILES main.cpp pad.cpp ball.cpp ball.h)
+set(SOURCE_FILES main.cpp pad.cpp Ball.h LoopException.h)
 add_executable(Pong ${SOURCE_FILES})

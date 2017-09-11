@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/Users/sunbo/Desktop/Pong/Ball.h
+SFML/Graphics.hpp
+-
+LoopException.h
+/Users/sunbo/Desktop/Pong/LoopException.h
+
+/Users/sunbo/Desktop/Pong/LoopException.h
+exception
+-
+string
+-
+
 /Users/sunbo/Desktop/Pong/main.cpp
 iostream
 -
@@ -13,10 +25,10 @@ SFML/Window.hpp
 -
 SFML/Graphics.hpp
 -
-SFML/System.hpp
--
 pad.h
 /Users/sunbo/Desktop/Pong/pad.h
+Ball.h
+/Users/sunbo/Desktop/Pong/Ball.h
 
 /Users/sunbo/Desktop/Pong/pad.cpp
 pad.h

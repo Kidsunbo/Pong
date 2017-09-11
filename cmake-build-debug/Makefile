@@ -123,33 +123,6 @@ Pong/fast:
 	$(MAKE) -f CMakeFiles/Pong.dir/build.make CMakeFiles/Pong.dir/build
 .PHONY : Pong/fast
 
-ball.o: ball.cpp.o
-
-.PHONY : ball.o
-
-# target to build an object file
-ball.cpp.o:
-	$(MAKE) -f CMakeFiles/Pong.dir/build.make CMakeFiles/Pong.dir/ball.cpp.o
-.PHONY : ball.cpp.o
-
-ball.i: ball.cpp.i
-
-.PHONY : ball.i
-
-# target to preprocess a source file
-ball.cpp.i:
-	$(MAKE) -f CMakeFiles/Pong.dir/build.make CMakeFiles/Pong.dir/ball.cpp.i
-.PHONY : ball.cpp.i
-
-ball.s: ball.cpp.s
-
-.PHONY : ball.s
-
-# target to generate assembly for a file
-ball.cpp.s:
-	$(MAKE) -f CMakeFiles/Pong.dir/build.make CMakeFiles/Pong.dir/ball.cpp.s
-.PHONY : ball.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -213,9 +186,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Pong"
-	@echo "... ball.o"
-	@echo "... ball.i"
-	@echo "... ball.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
