@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\administrator\desktop\code\cpp\mypong\mypong\mypong\Ball.h(27): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+main.cpp(22): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+main.cpp(24): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+main.cpp(34): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+  pad.cpp
+  正在生成代码
+  All 201 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MyPong.vcxproj -> C:\Users\Administrator\Desktop\Code\CPP\MyPong\MyPong\x64\Release\MyPong.exe
